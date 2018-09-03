@@ -1,0 +1,130 @@
+Source code of Project created throughout this serise
+##################################################################
+ - Bot Framework example
+https://github.com/mehtanilay10/BotFramework-LUIS-CognitiveServices-Demo/tree/master/BotFramework
+
+ - LUIS
+https://github.com/mehtanilay10/BotFramework-LUIS-CognitiveServices-Demo/tree/master/OtherResources/LUIS
+
+ - Presentation
+https://github.com/mehtanilay10/BotFramework-LUIS-CognitiveServices-Demo/blob/master/OtherResources/Presentation/LUIS%20Presentation.ppsx
+
+
+
+
+Microsoft Documentations
+##################################################################
+ - Bot Service Docs
+https://docs.microsoft.com/en-us/bot-framework/bot-service-quickstart
+
+ - Bot Builder .Net SDK Docs
+https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-concepts
+
+ - LUIS Docs
+https://docs.microsoft.com/en-us/azure/cognitive-services/luis/
+
+ - Cognitive services
+ https://docs.microsoft.com/en-us/azure/#pivot=products&panel=ai
+
+
+
+
+Samples by Microsoft on GitHub
+##################################################################
+https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples
+https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp
+https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples
+
+
+
+
+Session-4
+##################################################################
+- Bot Template
+http://aka.ms/bf-bc-vstemplate
+
+- Bot Framework Emulator
+https://github.com/Microsoft/BotFramework-Emulator/releases
+
+
+Session-8
+##################################################################
+- Markdown Cheat
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+Session-10
+##################################################################
+- Pattern Language
+https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-formflow-pattern-language
+
+
+Session-19
+##################################################################
+ - Get Facebook Page Id
+https://findmyfbid.com/
+
+
+Session-21
+##################################################################
+ - Bot Father
+https://telegram.me/botfather
+
+
+Session-37
+##################################################################
+ - Channel specific data
+https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-channeldata
+ - Escape JSON data
+http://bernhardhaeussner.de/odd/json-escape/
+
+
+Session-39
+##################################################################
+ - Cognitive Service API
+https://azure.microsoft.com/en-us/services/cognitive-services/
+
+Session-51
+##################################################################
+ - Text Translation API
+http://docs.microsofttranslator.com/text-translate.html
+
+
+
+Bonus Lecture
+##################################################################
+
+ - Create Chatbots using Dialogflow(API.AI) & deploy on GCloud 
+https://www.udemy.com/create-chatbots-using-apiai-and-deploy-on-google-cloud/?couponCode=BONUSCOUPON
+
+ - Learn Entity Framework Core 2.0 (EFC2) using ASP.Net Core 
+https://www.udemy.com/learn-entity-framework-core-2-efc2-using-aspnet-core/?couponCode=BONUSCOUPON
+
+ - Learn ASP.Net Web API 2 for Absolute Beginner 
+https://www.udemy.com/learn-aspnet-web-api-2-for-absolute-beginner/?couponCode=BONUSCOUPON
+
+ - Learn Apache Cordova using Visual Studio 2015 & Command line 
+https://www.udemy.com/learn-how-to-create-hybrid-app-using-apache-cordova-using-visual-stud/?couponCode=BONUSCOUPON
+
+ - Learn JSON and JSON Schema for Absolute Beginners 
+https://www.udemy.com/learn-json-and-json-schema-for-absolute-beginners/?couponCode=BONUSCOUPON
+ 
+ - [TEST] .Net Interview Questions for Preparation (300+ que) 
+https://www.udemy.com/dotnet-interview-questions-for-preparation-300-questions/?couponCode=BONUSCOUPON
+
+ - YouTube Channel
+http://www.youtube.com/c/TutorialsTeam
+
+ - Official Site
+http://www.MNilay.com/TutorialsTeam/
+
+ - Facebook Page
+https://www.facebook.com/TutorialsTeamOfficial/
+
+ - My Blog
+http://www.MNilay.com/blog/
+
+ - Offers on other Udemy courses
+http://www.MNilay.com/Offers/
+
+
